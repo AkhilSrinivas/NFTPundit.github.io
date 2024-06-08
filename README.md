@@ -1,2 +1,0 @@
-# NFTPundit.github.io
-NFTToken 
